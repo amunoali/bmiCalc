@@ -2,7 +2,7 @@
 App allows you to claculate your BMI
 
 ## Link to Project:
-
+https://bmigenerator.netlify.app/
 
   <img src="./images/BMICalc.png" alt="">
 
